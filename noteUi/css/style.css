@@ -8,8 +8,7 @@ section {
   gap: 1rem;
   min-width: 200px;
   width: 18vw;
-  max-width: 300px;
-  height: auto;
+  max-width: 350px;
   justify-content: space-between;
 }
 body {
@@ -19,6 +18,6 @@ body {
   row-gap: 1rem;
   column-gap: 0.25rem
 }
-section>img{
+section img{
     width: 100%;
 }
